@@ -1,6 +1,6 @@
 # RealTimeStorage
 
-__RealTimeStorage is an Android online or file recovery library on [Firebase] (https://firebase.google.com).
+__RealTimeStorage is an Android online or file recovery library on [Firebase](https://firebase.google.com).
 This library is based on services provided by firabase such as Firestore and RealTime-database.__
 
 ## Why this library?
@@ -173,4 +173,4 @@ rts.getDatabaseReference();
 If you have any suggestions to improve this freedom, write to me.
 
 ## Licence 
-created by[Drex](https://github.com/Drex-xdev)
+created by [Drex](https://github.com/Drex-xdev)
