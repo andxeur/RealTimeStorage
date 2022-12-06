@@ -1,7 +1,7 @@
 # RealTimeStorage
 
 __RealTimeStorage is an Android online or file recovery library on [Firebase] (https://firebase.google.com).
-This library is based on services provided by firabase such as Firestore and RealTime-database. __
+This library is based on services provided by firabase such as Firestore and RealTime-database.__
 
 ## Why this library?
 
