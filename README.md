@@ -173,4 +173,4 @@ rts.getDatabaseReference();
 If you have any suggestions to improve this freedom, write to me.
 
 ## Licence 
-created by [Drex](https://github.com/Drex-xdev)
+created by [andxeur](https://github.com/andxeur)
